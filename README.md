@@ -49,3 +49,11 @@ This kit is the opposite: short files you can copy into Notion, Google Docs, or 
 
 Maintained by [Paul Gravette](https://github.com/paul-gravette) / Gravette Capital.  
 PRs welcome if they stay short and operator-useful.
+
+## Join the conversation
+
+Have a template you wish existed, or a better version of one here? Start a thread in [Discussions](https://github.com/paul-gravette/pe-operating-kit/discussions) or [request a template](https://github.com/paul-gravette/pe-operating-kit/issues/new?template=template-request.yml). Every post gets a reply.
+
+## Thanks to
+
+Readers whose ideas shape these templates are credited here. Yours could be first.
