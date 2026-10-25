@@ -48,3 +48,7 @@ _Where we are vs plan, and the one thing the board must know._
 ## Appendix pointer
 
 _Deep dives live in the deck / data room. Do not bury bad news there._
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

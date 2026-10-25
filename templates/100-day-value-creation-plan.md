@@ -60,3 +60,7 @@ _What must be true in 100 days for this investment (or this CEO tenure) to be on
 | 3 | | | |
 
 **One sentence for the board:** _Are we ahead, on track, or behind — and why?_
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

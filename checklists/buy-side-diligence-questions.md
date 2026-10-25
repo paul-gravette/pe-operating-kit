@@ -71,3 +71,7 @@ Use in first management meetings and data-room reviews. Goal: force **pursue / p
 | Question # | Evidence | Owner | Due |
 |------------|----------|-------|-----|
 | | | | |
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

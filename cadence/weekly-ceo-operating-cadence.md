@@ -48,3 +48,7 @@ A default week for CEOs (PE-backed or high-growth). Adjust times; keep the **seq
 ## Optional: 15-minute Sunday scan
 
 Glance at calendar + cash + open asks. Don’t work the business; just remove Monday fog.
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).
