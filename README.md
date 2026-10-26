@@ -1,5 +1,7 @@
 # PE Operating Kit
 
+> **Get one AI fix every week, plus a free starter lesson.** [Join the free newsletter](https://www.paulgravette.com/newsletter?utm_source=github&utm_medium=readme). Check your inbox and tap Confirm to join.
+
 Practical templates for **CEOs, PE operators, and deal teams** who need clarity under time pressure — not another 40-page framework deck.
 
 ## The problem
